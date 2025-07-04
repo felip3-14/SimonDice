@@ -2,7 +2,7 @@
 
 Solo lo hice por el arte de programar algo básico y nostálgico.
 
-BRAT por Charli XCX
+algo que diga BRAT por Charli XCX
 
 ## Requisitos
 
