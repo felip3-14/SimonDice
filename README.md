@@ -24,5 +24,5 @@ python Juego_ByNerea/simon_game.py
 
 ## Créditos
 
-Desarrollado por tu equipo ✨  
+desarrollado por Felipe 💀 
 Pygame © comunidad Pygame. 
